@@ -1,0 +1,63 @@
+{
+  "comments": {
+    "c_1": {
+      "id": "c_1",
+      "parentId": null,
+      "authorId": "user_1",
+      "content": "Kicked off the redesign. @Paresh Sharma thoughts on the header spacing?",
+      "timestamp": "2024-08-15T10:00:00Z",
+      "attachments": ["file_img_1"],
+      "reactions": {
+        "👍": ["user_2"],
+        "🎉": ["user_3"]
+      },
+      "mentions": ["paresh_sharma"],
+      "isEdited": false,
+      "editedAt": null,
+      "replies": ["c_2", "c_3"]
+    },
+    "c_2": {
+      "id": "c_2",
+      "parentId": "c_1",
+      "authorId": "user_2",
+      "content": "Looks good! Maybe bump the logo size a bit. Also cc @Ram Singh",
+      "timestamp": "2024-08-15T10:05:00Z",
+      "attachments": [],
+      "reactions": {},
+      "mentions": ["ram_singh"],
+      "isEdited": false,
+      "editedAt": null,
+      "replies": ["c_4"]
+    },
+    "c_3": {
+      "id": "c_3",
+      "parentId": "c_1",
+      "authorId": "user_3",
+      "content": "I can take the header spacing. I'll push a PR shortly.",
+      "timestamp": "2024-08-15T10:12:00Z",
+      "attachments": ["file_doc_1"],
+      "reactions": {},
+      "mentions": [],
+      "isEdited": false,
+      "editedAt": null,
+      "replies": []
+    },
+    "c_4": {
+      "id": "c_4",
+      "parentId": "c_2",
+      "authorId": "user_3",
+      "content": "On it. Will also check mobile breakpoints.",
+      "timestamp": "2024-08-15T10:16:00Z",
+      "attachments": [],
+      "reactions": {},
+      "mentions": [],
+      "isEdited": false,
+      "editedAt": null,
+      "replies": []
+    }
+  },
+  "metadata": {
+    "totalComments": 4,
+    "lastUpdated": "2024-08-15T10:16:00Z"
+  }
+}

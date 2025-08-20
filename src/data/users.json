@@ -1,0 +1,28 @@
+{
+  "users": {
+    "user_1": {
+      "id": "user_1",
+      "username": "ram_singh",
+      "displayName": "Ram Singh",
+      "avatar": "avatars/ram_singh.jpg",
+      "isOnline": true,
+      "lastSeen": "2024-08-15T10:29:00Z"
+    },
+    "user_2": {
+      "id": "user_2",
+      "username": "paresh_sharma",
+      "displayName": "Paresh Sharma",
+      "avatar": "avatars/paresh_sharma.jpg",
+      "isOnline": false,
+      "lastSeen": "2024-08-15T09:45:00Z"
+    },
+    "user_3": {
+      "id": "user_3",
+      "username": "jivan_supe",
+      "displayName": "Jivan Supe",
+      "avatar": "avatars/jivan_supe.jpg",
+      "isOnline": true,
+      "lastSeen": "2024-08-15T10:31:00Z"
+    }
+  }
+}

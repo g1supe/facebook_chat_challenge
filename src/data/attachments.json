@@ -1,0 +1,29 @@
+{
+  "attachments": {
+    "file_img_1": {
+      "id": "file_img_1",
+      "filename": "design_review.png",
+      "originalName": "Design Review Screenshot.png",
+      "path": "uploads/images/design_review.png",
+      "type": "image/png",
+      "size": 312000,
+      "uploadedBy": "user_1",
+      "uploadedAt": "2024-08-15T09:58:00Z",
+      "metadata": {
+        "width": 1600,
+        "height": 900,
+        "thumbnail": "uploads/thumbnails/design_review_thumb.png"
+      }
+    },
+    "file_doc_1": {
+      "id": "file_doc_1",
+      "filename": "meeting_notes.pdf",
+      "originalName": "Meeting Notes - Aug 15.pdf",
+      "path": "uploads/documents/meeting_notes.pdf",
+      "type": "application/pdf",
+      "size": 540000,
+      "uploadedBy": "user_2",
+      "uploadedAt": "2024-08-15T10:10:00Z"
+    }
+  }
+}
