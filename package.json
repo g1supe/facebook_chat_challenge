@@ -2,6 +2,7 @@
   "name": "facebook_chat_app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://g1supe.github.io/facebook_chat_challenge/",
   "dependencies": {
     "@reduxjs/toolkit": "^2.8.2",
     "@testing-library/dom": "^10.4.1",
